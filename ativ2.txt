@@ -1,0 +1,15 @@
+<body>  {Corpo da página} | Tudo que você quer que apareça para o usuário/ Conteúdo
+</body> {Fim corpo}
+
+
+TÍTULOS
+<h1>Título</h1> {Títulos principais}
+<h2>....  { Subtítulos}
+ 
+
+Funções de proramacao
+if = Se
+else =senão
+else if= senão se
+for= usado para contador inicial e final
+repeat=laço de repetição uso repeat para iniciar e until para finalizar
