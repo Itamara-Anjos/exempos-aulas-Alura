@@ -1,2 +1,2 @@
-# exempos-durante-aulas
-colocarei conteudos como exemplos dispostos durante as aulas para melhor aprendizado
+# exempos-durante-aulas-ALURA.
+Será colocado exemplos dados durante aula para melhorar o aprendizado.
